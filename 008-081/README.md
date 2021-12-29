@@ -3,4 +3,4 @@
 Dawid Farbaniec
 
 
-![rysunek-8-81](https://github.com/hakerinfo/masm-x64-basics/blob/main/008-081/rysunek-8-81.png)
+![rysunek-8-81](https://github.com/ethicalblue/masm-x64-basics/blob/main/008-081/rysunek-8-81.png)
