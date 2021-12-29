@@ -1,0 +1,4 @@
+LIBRARY Library
+EXPORTS
+    my_procedure
+

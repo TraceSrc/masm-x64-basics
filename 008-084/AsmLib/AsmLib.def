@@ -1,0 +1,11 @@
+LIBRARY AsmLib
+EXPORTS
+    InitProc
+    AddProc
+    SubProc
+    MulProc
+    DivProc
+    AndProc
+    AndNProc
+    OrProc
+    XorProc

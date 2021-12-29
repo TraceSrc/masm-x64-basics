@@ -1,0 +1,4 @@
+LIBRARY hybrid_msvcpp_masm_02
+EXPORTS
+    my_procedure
+
